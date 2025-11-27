@@ -1,0 +1,101 @@
+﻿number,question,option_a,option_b,option_c,option_d,answer
+1,What is the capital of Japan?,Seoul,Beijing,Tokyo,Bangkok,Tokyo
+2,"Which planet is known as the ""Red Planet""?",Jupiter,Mars,Venus,Saturn,Mars
+3,Who painted the Mona Lisa?,Van Gogh,Picasso,Leonardo da Vinci,Michelangelo,Leonardo da Vinci
+4,What gas do plants primarily absorb during photosynthesis?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,Carbon dioxide
+5,What is the chemical symbol for water?,O2,W,H₂O,CO2,H₂O
+6,Which country has won the most FIFA World Cups?,Brazil,Italy,Argentina,Germany,Brazil
+7,How many hearts does an octopus have?,One,Two,Three,Four,Three
+8,What is the largest mammal on Earth?,Elephant,Giraffe,Blue Whale,Rhinoceros,Blue Whale
+9,In which year was the first Apple iPhone released?,2005,2006,2007,2008,2007
+10,What is a group of crows called?,Flock,Coven,Murder,Herd,Murder
+11,What is the name of the world's first artificial satellite?,Explorer 1,Sputnik 1,Vanguard 1,Telstar 1,Sputnik 1
+12,Which element is essential for strong bones and teeth?,Calcium,Sodium,Potassium,Iron,Calcium
+13,What is the currency of Japan?,Yen,Won,Dollar,Yuan,Yen
+14,Who discovered the laws of motion?,Albert Einstein,Galileo Galilei,Sir Isaac Newton,Stephen Hawking,Sir Isaac Newton
+15,What is the main ingredient in traditional hummus?,Chickpeas,Tofu,Black Beans,Lentils,Chickpeas
+16,How many days are in a leap year?,365,366,360,356,366
+17,Which organ in the human body cleanses the blood and produces bile?,Liver,Lungs,Stomach,Heart,Liver
+18,What is the national sport of Japan?,Baseball,Karate,Sumo wrestling,Kendo,Sumo wrestling
+19,What is the freezing point of water in Celsius?,0°C,32°C,10°C,100°C,0°C
+20,What is the loudest animal on Earth?,African Lion,Elephant,Howler Monkey,Sperm Whale,Sperm Whale
+21,What is the process by which caterpillars turn into butterflies?,Germination,Reproduction,Metamorphosis,Photosynthesis,Metamorphosis
+22,What is the scientific theory that explains the origin of the universe?,Theory of Relativity,Quantum Theory,The Big Bang Theory,String Theory,The Big Bang Theory
+23,Which force keeps us grounded on Earth?,Friction,Magnetism,Gravity,Buoyancy,Gravity
+24,What is the nickname for the bell of the clock at the Palace of Westminster in London?,Big Ben,Westminster Chimes,Queen's Bell,Little John,Big Ben
+25,Which continent is the largest by land area?,Asia,North America,Europe,Africa,Asia
+26,What is the official title of the head of the Catholic Church?,Pope,Archbishop,Priest,Cardinal,Pope
+27,How many elements are there in the standard periodic table (as of latest updates)?,100,110,115,118,118
+28,What is the longest river in the world?,Amazon River,Yangtze River,Mississippi River,Nile River,Nile River
+29,Which legendary surrealist artist is famous for painting melting clocks?,Salvador Dalí,Claude Monet,Vincent van Gogh,Pablo Picasso,Salvador Dalí
+30,What is the smallest continent in the world?,Europe,South America,Australia,Antarctica,Australia
+31,What is the term for the fear of animals?,Zoophobia,Claustrophobia,Acrophobia,Arachnophobia,Zoophobia
+32,Who wrote the novel War and Peace?,Leo Tolstoy,Anton Chekhov,Ivan Turgenev,Fyodor Dostoevsky,Leo Tolstoy
+33,What is the northernmost country in Africa?,Tunisia,Morocco,Algeria,Egypt,Tunisia
+34,What kind of animal is a King Cobra?,Reptile,Mammal,Bird,Fish,Reptile
+35,What is the only mammal capable of true flight?,Lemur,Sugar Glider,Bat,Flying Squirrel,Bat
+36,In which sport is the term 'love' used to denote a score of zero?,Tennis,Golf,Rugby,Cricket,Tennis
+37,Which gas makes up most of Earth's atmosphere?,Argon,Carbon Dioxide,Nitrogen,Oxygen,Nitrogen
+38,What is the smallest planet in our solar system?,Earth,Mars,Mercury,Venus,Mercury
+39,What is the chemical element designated as “Hg”?,Mercury,Silver,Tin,Gold,Mercury
+40,Who was the first man to step on the moon?,Neil Armstrong,Michael Collins,Yuri Gagarin,Buzz Aldrin,Neil Armstrong
+41,What are animals that eat both plants and animals called?,Omnivores,Carnivores,Scavengers,Herbivores,Omnivores
+42,What is the capital of Qatar?,Muscat,Doha,Riyadh,Dubai,Doha
+43,What is the world's fastest bird?,Peregrine Falcon,Eagle,Albatross,Ostrich,Peregrine Falcon
+44,What do you call a baby frog?,Tadpole,Pup,Joey,Kit,Tadpole
+45,Who wrote the Harry Potter book series?,J.K. Rowling,Roald Dahl,J. R. R. Tolkien,Enid Blyton,J.K. Rowling
+46,What are the primary colors of light (additive colors)?,"Red, Yellow, Blue","Cyan, Magenta, Yellow","Red, Green, Blue","Orange, Green, Violet","Red, Green, Blue"
+47,What is the name of the main antagonist in Shakespeare's Othello?,Iago,Hamlet,Shylock,Macbeth,Iago
+48,In what year was the first international modern Olympiad held?,1896,1904,1908,1900,1896
+49,Which country is home to the Taj Mahal?,India,Nepal,Bangladesh,Pakistan,India
+50,What kind of celestial body is the Sun?,Star,Moon,Black Hole,Planet,Star
+51,Which US city do the band The Killers originate from?,Chicago,Los Angeles,Las Vegas,New York,Las Vegas
+52,What is the fear of heights called?,Acrophobia,Claustrophobia,Pyrophobia,Hydrophobia,Acrophobia
+53,What is the national flower of India?,Lotus,Tulip,Jasmine,Rose,Lotus
+54,Which rock band was founded by Trent Reznor in 1988?,Nine Inch Nails,Pearl Jam,Soundgarden,Nirvana,Nine Inch Nails
+55,How many players are there on each side in a polo match?,Five,Four,Six,Three,Four
+56,What is the process by which liquid turns into gas?,Evaporation,Condensation,Sublimation,Melting,Evaporation
+57,What is the name of the toy cowboy in the Toy Story movies?,Buzz,Woody,Rex,Slinky,Woody
+58,What is the capital of Australia?,Sydney,Melbourne,Brisbane,Canberra,Canberra
+59,What element do diamonds consist of?,Silicon,Gold,Iron,Carbon,Carbon
+60,Which author wrote The Old Man and the Sea?,F. Scott Fitzgerald,William Faulkner,John Steinbeck,Ernest Hemingway,Ernest Hemingway
+61,What is the common name for the larva of a housefly?,Grub,Worm,Nymph,Maggot,Maggot
+62,Which planet has the most moons in our solar system?,Jupiter,Uranus,Neptune,Saturn,Saturn
+63,What word was named the 2024 Oxford Word of the Year?,Vibe,Goblin Mode,Rizz,Brain rot,Brain rot
+64,What is the currency of Denmark?,Euro,Pound,Krona,Krone,Krone
+65,What is the largest organ in the human body?,Brain,Heart,Lungs,Skin,Skin
+66,Who developed the theory of evolution by natural selection?,Gregor Mendel,Louis Pasteur,Nikola Tesla,Charles Darwin,Charles Darwin
+67,What is the fear of water called?,Pyrophobia,Ailurophobia,Herpetophobia,Hydrophobia,Hydrophobia
+68,What is the study of birds called?,Geology,Ornithology,Zoology,Ecology,Ornithology
+69,Which country is home to the kangaroo?,New Zealand,Australia,Argentina,South Africa,Australia
+70,In which capital city of Europe would you find the Eiffel Tower?,Rome,Paris,Berlin,London,Paris
+71,What kind of tree do prunes come from?,Apple,Plum,Fig,Orange,Plum
+72,What is the smallest state in India by area?,Punjab,Goa,Sikkim,Haryana,Goa
+73,Which ocean is the largest?,Arctic,Pacific,Atlantic,Indian,Pacific
+74,Who was the first President of the United States?,Thomas Jefferson,George Washington,James Madison,John Adams,George Washington
+75,How many Great Lakes are there in North America?,Two,Five,Four,Three,Five
+76,What is Lady Gaga's real name?,Madonna Ciccone,Stefani Germanotta,Katy Perry,Robyn Fenty,Stefani Germanotta
+77,What is the term for a baby sheep?,Kid,Lamb,Foal,Calf,Lamb
+78,Which US state is home to Hollywood?,New York,California,Texas,Florida,California
+79,What is the official language of Brazil?,Spanish,Portuguese,Italian,French,Portuguese
+80,What is the boiling point of water in degrees Celsius?,0°C,100°C,90°C,50°C,100°C
+81,What is the largest internal organ in the human body?,Stomach,Liver,Kidney,Intestine,Liver
+82,Which element has the chemical symbol 'Fe'?,Gold,Silver,Iron,Oxygen,Iron
+83,Which animal is known as the 'Ship of the Desert'?,Horse,Yak,Ostrich,Camel,Camel
+84,What do you call a scientist who studies rocks?,Biologist,Geographer,Chemist,Geologist,Geologist
+85,Who invented the telephone?,Thomas Edison,Benjamin Franklin,Guglielmo Marconi,Alexander Graham Bell,Alexander Graham Bell
+86,How many bones are in the adult human body?,200,210,208,206,206
+87,What does the acronym FIFA stand for (in English)?,Football International Federation Association,Federation of International Football Association,Football International Fans Association,International Federation of Association Football,International Federation of Association Football
+88,What is the name of the coffee shop in US sitcom Friends?,The Bean Scene,Central Perk,Monk's Diner,Central Perk Cafe,Central Perk
+89,Which planet is known for having a prominent ring system?,Jupiter,Saturn,Neptune,Uranus,Saturn
+90,What is the largest lake in the world by surface area?,Lake Superior,Caspian Sea,Great Salt Lake,Lake Victoria,Caspian Sea
+91,What is the name for a group of porcupines?,Herd,Prickle,Colony,Drove,Prickle
+92,Entomology is the science that studies what?,Fossils,Insects,Rocks,Birds,Insects
+93,What is the main function of red blood cells?,Fight Infection,Carry Oxygen,Absorb Nutrients,Clot Blood,Carry Oxygen
+94,What is the imaginary line called that connects the North and South Pole?,Equator,Prime Meridian,Arctic Circle,Tropic of Cancer,Prime Meridian
+95,Which festival is called the Festival of Lights in India?,Holi,Diwali,Christmas,Eid,Diwali
+96,What is the chemical formula for salt (sodium chloride)?,H₂O,NaCl,C₆H₁₂O₆,CO₂,NaCl
+97,What is the national fruit of India?,Banana,Mango,Grapes,Apple,Mango
+98,"Who is known as the ""Missile Man of India""?",Mahatma Gandhi,Dr. A.P.J. Abdul Kalam,Sachin Tendulkar,Jawaharlal Nehru,Dr. A.P.J. Abdul Kalam
+99,Which animal has the longest lifespan?,Giant Tortoise,The Glass Sponge,Elephant,Bowhead Whale,The Glass Sponge
+100,In which part of your body would you find the cruciate ligament?,Shoulder,Knee,Ankle,Wrist,Knee
